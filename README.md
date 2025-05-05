@@ -1,4 +1,4 @@
-# it-support-portfolio
+# Hope-IT-support-portfolio
 Hope's IT support/helpdesk portfolio with scripts, documentation, and projects
 # 💻 IT Support / Helpdesk Portfolio
 
